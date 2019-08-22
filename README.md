@@ -1,2 +1,5 @@
 # Project-McNulty
-This is my third project in Metis bootcamp
+This is my third project in Metis bootcamp. Topic is Telecom Customer Churn Prediction.
+Customer churn has many definitions: customer attrition, customer turnover, or customer defection, all means the loss of clients or customers. This can be voluntary reasons (by choice) or involuantary reasons (example relocation).
+
+Predictive analytics models can be used to predict customer churn by assessing their propensity or risk to churn. These models can generate a potential 'defectors' list, so that a focused customer retention marketing program can be prioritised on these customers who are most vulnerable to churn.
