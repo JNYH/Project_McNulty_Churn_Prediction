@@ -6,3 +6,6 @@ Predictive analytic models can be used to predict customer churn by assessing th
 
 # Read more:
 https://medium.com/@jamesngyh/classification-analysis-on-telco-customer-churn-a01599ad28d7
+
+# Metis Data Science Bootcamp
+https://metis.kaplan.com.sg
