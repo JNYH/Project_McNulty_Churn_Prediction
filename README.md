@@ -9,3 +9,6 @@ https://towardsdatascience.com/customer-churn-classification-using-predictive-ma
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
+
+# Connect with me:
+https://www.linkedin.com/in/jnyh/
