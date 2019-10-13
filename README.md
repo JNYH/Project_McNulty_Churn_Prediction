@@ -5,7 +5,7 @@ Customer churn has many definitions: customer attrition, customer turnover, or c
 Predictive analytic models can be used to predict customer churn by assessing their propensity/risk to churn. These models can generate a potential 'defectors' list, so that a focused customer retention marketing program can be prioritised on these customers who are most vulnerable to churn.
 
 # Read more:
-https://medium.com/swlh/classification-analysis-on-telco-customer-churn-a01599ad28d7
+https://towardsdatascience.com/customer-churn-classification-using-predictive-machine-learning-models-ab7ba165bf56
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
