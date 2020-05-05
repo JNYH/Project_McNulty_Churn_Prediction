@@ -7,8 +7,8 @@ Predictive analytic models can be used to predict customer churn by assessing th
 ## Read more
 https://towardsdatascience.com/customer-churn-classification-using-predictive-machine-learning-models-ab7ba165bf56
 
-## Metis Data Science Bootcamp
-https://metis.kaplan.com.sg
+## Video presentation
+https://www.youtube.com/watch?v=j7PiYjoKQ48
 
 ## Connect with me
 https://www.linkedin.com/in/jnyh/
